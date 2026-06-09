@@ -1,2 +1,8 @@
-# Terminal-adventure-game
-my first project on githup i am making an game from c++
+#include <iostream>
+
+int main() {
+  for (int x = 1; x <= 50; x++){
+    std::cout<< x <<" sheep \n";
+  }
+  
+}
